@@ -3,6 +3,10 @@
 ![Tests](https://github.com/ParikshitJadhav3693/Pdf_Text_Summarization_And_Que_Ans_Chatbot/actions/workflows/tests.yml/badge.svg)
 
 
+![Tests](https://github.com/ParikshitJadhav3693/Pdf_Text_Summarization_And_Que_Ans_Chatbot/actions/workflows/tests.yml/badge.svg)
+
+
+
 
 A simple web app to **upload a PDF**, get an **auto‑summary**, and **chat** with the document using retrieval over a TF‑IDF index. Runs **fully offline** by default; if you set `OPENAI_API_KEY`, answers and summaries upgrade to LLM quality automatically.
 
